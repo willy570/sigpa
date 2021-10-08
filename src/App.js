@@ -21,7 +21,6 @@ function App() {
         const allData = datas.data;
         setAppState({ loading: false, datas: allData });
       })
-      .catch((error) => console.log(error));
   }, [setAppState]);
 
   return (
