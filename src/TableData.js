@@ -22,6 +22,6 @@ export const tableCol = [
   {
     field: "notelitteratie",
     use: "Note Litteratie",
-  },
+  }
 ];
 
