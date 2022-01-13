@@ -13,7 +13,7 @@ const TableComponent = (props) => {
 
     return (
       <div>
-        <Table columns={tableCol} rows={datas} per_page={6} />
+        <Table columns={tableCol} rows={datas} per_page={10} />
       </div>
     );
 };

@@ -29,7 +29,7 @@ function App() {
           <div className="inline-block shadow overflow-hidden w-full">
             <img
               className="w-full object-cover"
-              src="https://www.ripleybelieves.com/img/society-2018/what-is-unesco.jpg"
+              src="imgs/UNESCO_logo_hor_blue.jpg"
               alt="logo unesco"
             />
           </div>
